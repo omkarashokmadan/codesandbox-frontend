@@ -41,6 +41,6 @@ npm start
 Project Candidature :- omkar ashok madan
 Front End Capstone Project
 Resume Builder App link :-
-Git Hub Code to clone :-
+Git Hub Code to clone :- https://github.com/omkarashokmadan/codesandbox-frontend.git
 
 
