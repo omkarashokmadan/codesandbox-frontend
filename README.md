@@ -24,7 +24,6 @@ Challenges faced were to generate new idea UI interface.covered the challenge by
 
 - The fill data section is storing data in its state
 
-
 ## How to contribute ?
 
 git clone [your forked repositoy link]
@@ -36,10 +35,9 @@ npm install
 npm start
 
 
-
 Project Candidature :- omkar ashok madan
 Front End Capstone Project
-Resume Builder App link :-
+Resume Builder App link :- https://csb-0d3wss.netlify.app/
 Git Hub Code to clone :- https://github.com/omkarashokmadan/codesandbox-frontend.git
 
 
