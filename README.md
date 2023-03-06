@@ -2,7 +2,8 @@
 
 **Tesume - Resume Builder | Free Templates | Resume to pdf downloader**
 
-Tesume is a Open Source web app where users can provide information about themselves and their aptitudes after which they can choose one of the pre-built, professtionally-looking templates that he can download a PDF version of it directly.
+Tesume is a Open Source web app where users can provide information about themselves and their aptitudes after which they can choose one of the pre-built, professtionally-looking templates that he can download a PDF version of it directly.This is a modern resume builder app.were a user can put his professional data like
+basic details eg
 
 ## Aim
 
