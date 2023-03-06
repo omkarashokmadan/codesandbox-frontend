@@ -13,8 +13,7 @@ is a UI responsive web app using stacks like - 1.)Javascript 2.)HTML 3.)CSS 4.)R
 
 ## Application Flow
 
-This application is basically taking input from the user about his personal details, his education, skills and experience. and then it shows his data in the next section in form of templates where he can download a PDF version of it directly.
-
+Challenges faced were to generate new idea UI interface.covered the challenge by the basic knowledge and conceptual understanding.
 - Currently the application has 2 routes:
 
 - The one where the user provides the details
