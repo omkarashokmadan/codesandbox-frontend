@@ -35,7 +35,6 @@ npm install
 
 npm start
 
-```
 
 
 Project Candidature :- omkar ashok madan
