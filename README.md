@@ -29,7 +29,7 @@ Challenges faced were to generate new idea UI interface.covered the challenge by
 
 git clone [your forked repositoy link]
 
-cd Tesume
+cd codesandbox-frontend
 
 npm install
 
