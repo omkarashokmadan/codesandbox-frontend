@@ -76,8 +76,10 @@ git push -u orign <branch-name>
 - Wait for the review of your pull request and you are all set to move further with it.
 
 
-## Further Advancements
+Project Candidature :- 
+omkar ashok madan
+Front End Capstone Project
+Resume Builder App :-
+Git Hub Code to clone :-
+Front End App link :- 
 
-- Connect the two sections with eachother intially with passing props.
-
-- New and freshier templates
