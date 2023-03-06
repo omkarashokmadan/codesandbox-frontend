@@ -9,7 +9,7 @@ https://csb-0d3wss.netlify.app/
 ## Aim
 
 The aim behind this project was to polish our React.js skills by creating a project that would be actually useful and could help others to learn as well.This
-is a UI responsive web app using stacks like - 1.)Javascript 2.)HTML 3.)CSS 4.)React.js 5.)React Router Dom 6)  "react-responsive": "^9.0.0-beta.6" 7.) 
+is a UI responsive web app using stacks like - 1.)Javascript 2.)HTML 3.)CSS 4.)React.js 5.)React Router Dom 6)  "react-responsive": "^9.0.0-beta.6" 7.) "react-to-pdf": "^0.0.14"
 
 ## Application Flow
 
