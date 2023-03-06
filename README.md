@@ -36,8 +36,11 @@ npm start
 
 
 Project Candidature :- omkar ashok madan
+
 Front End Capstone Project
+
 Resume Builder App link :- https://csb-0d3wss.netlify.app/
+
 Git Hub Code to clone :- https://github.com/omkarashokmadan/codesandbox-frontend.git
 
 
