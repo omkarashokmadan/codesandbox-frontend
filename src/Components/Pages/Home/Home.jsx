@@ -19,7 +19,7 @@ const Home = () => {
       </div>
 
       <a
-        href="https://github.com/omkarashokmadan"
+        href="https://github.com/omkarashokmadan" //link to github profile
         target="_drake"
         style={{ marginTop: "30px" }}
       >
